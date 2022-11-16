@@ -1,0 +1,10 @@
+{
+  "name": "recognition-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-image": "^2.0.0",
+    "tesseract.js": "^3.0.3"
+  }
+}
